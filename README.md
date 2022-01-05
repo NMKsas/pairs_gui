@@ -116,4 +116,5 @@ deck images and background photo. All the art (C) author.
 
 ### Known flaws:
 - the program doesn't prevent from naming two players with the same name
-- GameOverMessageLabel (Game Over Page) doesn't expand as other QWidgets 
+- GameOverMessageLabel (Game Over Page) doesn't expand as other QWidgets
+- Using both raw and smart pointers

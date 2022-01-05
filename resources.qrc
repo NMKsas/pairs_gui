@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Images/deck.png</file>
+        <file>Images/C.png</file>
+        <file>Images/B.png</file>
+        <file>Images/A.png</file>
+        <file>Images/Z.png</file>
+        <file>Images/Y.png</file>
+        <file>Images/X.png</file>
+        <file>Images/W.png</file>
+        <file>Images/V.png</file>
+        <file>Images/U.png</file>
+        <file>Images/T.png</file>
+        <file>Images/S.png</file>
+        <file>Images/R.png</file>
+        <file>Images/Q.png</file>
+        <file>Images/P.png</file>
+        <file>Images/O.png</file>
+        <file>Images/N.png</file>
+        <file>Images/M.png</file>
+        <file>Images/L.png</file>
+        <file>Images/K.png</file>
+        <file>Images/J.png</file>
+        <file>Images/I.png</file>
+        <file>Images/H.png</file>
+        <file>Images/G.png</file>
+        <file>Images/F.png</file>
+        <file>Images/E.png</file>
+        <file>Images/D.png</file>
+        <file>Images/background.png</file>
+    </qresource>
+</RCC>
